@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/manny/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.2.0/c0b52915a48fa91b1b94a28d4a2997bac5f524df/okio-1.2.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="c0b52915a48fa91b1b94a28d4a2997bac5f524df">
+        <dex dex="/home/manny/AndroidProject/PNZ/app/build/intermediates/pre-dexed/debug/okio-1.2.0-239248de90a1002329042481f61b0a7b75feb3f6.jar" />
+    </item>
+    <item
+        jar="/home/manny/.gradle/caches/modules-2/files-2.1/org.mortbay.jetty/jetty-util/6.1.26/e5642fe0399814e1687d55a3862aa5a3417226a9/jetty-util-6.1.26.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5642fe0399814e1687d55a3862aa5a3417226a9">
+        <dex dex="/home/manny/AndroidProject/PNZ/app/build/intermediates/pre-dexed/debug/jetty-util-6.1.26-b30d12ed3f6f0eedfdb49f2e2179a74db698e011.jar" />
+    </item>
+    <item
+        jar="/home/manny/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.21.0/8ce17bdd15fff0fd8cf359757f29e778fc7191ad/google-http-client-jackson2-1.21.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8ce17bdd15fff0fd8cf359757f29e778fc7191ad">
+        <dex dex="/home/manny/AndroidProject/PNZ/app/build/intermediates/pre-dexed/debug/google-http-client-jackson2-1.21.0-163f52d5d1311e6ae328b2e7bdbfc677100bd6e2.jar" />
+    </item>
+    <item
+        jar="/home/manny/.gradle/caches/modules-2/files-2.1/de.greenrobot/eventbus/2.2.1/a18ff12a9ab5ae52fd30d42f134517997568231e/eventbus-2.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a18ff12a9ab5ae52fd30d42f134517997568231e">
+        <dex dex="/home/manny/AndroidProject/PNZ/app/build/intermediates/pre-dexed/debug/eventbus-2.2.1-2d57ed68c21d7e605a199be7339efa52707fe4e1.jar" />
+    </item>
+    <item
+        jar="/home/manny/.gradle/caches/modules-2/files-2.1/org.mortbay.jetty/jetty/6.1.26/2f546e289fddd5b1fab1d4199fbb6e9ef43ee4b0/jetty-6.1.26.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2f546e289fddd5b1fab1d4199fbb6e9ef43ee4b0">
+        <dex dex="/home/manny/AndroidProject/PNZ/app/build/intermediates/pre-dexed/debug/jetty-6.1.26-1cdd82d377ef7af2e5780334870611db217d2ff8.jar" />
+    </item>
+    <item
+        jar="/home/manny/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/home/manny/AndroidProject/PNZ/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0-a84af1d15e8bba3432efd39006b3ec617a3c4f53.jar" />
+    </item>
+    <item
+        jar="/home/manny/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.21.0/61ec42bbfc51aafde5eb8b4923c602c5b5965bc2/google-oauth-client-1.21.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61ec42bbfc51aafde5eb8b4923c602c5b5965bc2">
+        <dex dex="/home/manny/AndroidProject/PNZ/app/build/intermediates/pre-dexed/debug/google-oauth-client-1.21.0-35d1b8ab60548c344a2e52f340166818dfd167fe.jar" />
+    </item>
+    <item
+        jar="/home/manny/AndroidProject/PNZ/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/home/manny/AndroidProject/PNZ/app/build/intermediates/pre-dexed/debug/classes-dc3736c2151fb5905f08de2ac0836330963f2168.jar" />
+    </item>
+    <item
+        jar="/home/manny/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.2.0/959c454243581fdf730abfd4f4745441724bcf2c/okhttp-2.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="959c454243581fdf730abfd4f4745441724bcf2c">
+        <dex dex="/home/manny/AndroidProject/PNZ/app/build/intermediates/pre-dexed/debug/okhttp-2.2.0-8e7eafc9779b3f21590be22e137a635cb5870a2f.jar" />
+    </item>
+    <item
+        jar="/home/manny/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client-jetty/1.19.0/b92560253908e8cd71142179d3250e1b8701d48e/google-oauth-client-jetty-1.19.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b92560253908e8cd71142179d3250e1b8701d48e">
+        <dex dex="/home/manny/AndroidProject/PNZ/app/build/intermediates/pre-dexed/debug/google-oauth-client-jetty-1.19.0-6034ace297b17a0e1bc5ee812c884fd251efe374.jar" />
+    </item>
+    <item
+        jar="/home/manny/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.4.0/f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2/picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="/home/manny/AndroidProject/PNZ/app/build/intermediates/pre-dexed/debug/picasso-2.4.0-abe854eea99d5d1edec3ddb0b4c39e33aaf6d80e.jar" />
+    </item>
+    <item
+        jar="/home/manny/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-urlconnection/2.2.0/cb20062e14c523637b7643295418097b48cccec2/okhttp-urlconnection-2.2.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="cb20062e14c523637b7643295418097b48cccec2">
+        <dex dex="/home/manny/AndroidProject/PNZ/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-2.2.0-22c10c8ce0df259369c4b84e785c4e402ce7f082.jar" />
+    </item>
+    <item
+        jar="/home/manny/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/home/manny/AndroidProject/PNZ/app/build/intermediates/pre-dexed/debug/jsr305-1.3.9-7805463572472cc740d50379fc9b0a132d71182c.jar" />
+    </item>
+    <item
+        jar="/home/manny/.gradle/caches/modules-2/files-2.1/org.mortbay.jetty/servlet-api/2.5-20081211/22bff70037e1e6fa7e6413149489552ee2064702/servlet-api-2.5-20081211.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="22bff70037e1e6fa7e6413149489552ee2064702">
+        <dex dex="/home/manny/AndroidProject/PNZ/app/build/intermediates/pre-dexed/debug/servlet-api-2.5-20081211-741ddb463ef67f8b3d998f58aa837a5926be296d.jar" />
+    </item>
+    <item
+        jar="/home/manny/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/17.0/463f8378feba44df7ba7cd9272d01837dad62b36/guava-jdk5-17.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="463f8378feba44df7ba7cd9272d01837dad62b36">
+        <dex dex="/home/manny/AndroidProject/PNZ/app/build/intermediates/pre-dexed/debug/guava-jdk5-17.0-c998561933fda8a54380b709e46f25cec78b5408.jar" />
+    </item>
+    <item
+        jar="/home/manny/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/home/manny/AndroidProject/PNZ/app/build/intermediates/pre-dexed/debug/jackson-core-2.1.3-d3af929fa5a13d5547a426fc8c8b206f1c5574a0.jar" />
+    </item>
+    <item
+        jar="/home/manny/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.0/8873bd0bb5cb9ee37f1b04578eb7e26fcdd44cb0/commons-lang3-3.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="8873bd0bb5cb9ee37f1b04578eb7e26fcdd44cb0">
+        <dex dex="/home/manny/AndroidProject/PNZ/app/build/intermediates/pre-dexed/debug/commons-lang3-3.0-f77fdff1c2bd55c31c90f040cf93861933aa4896.jar" />
+    </item>
+    <item
+        jar="/home/manny/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-urlconnection/2.2.0/cb20062e14c523637b7643295418097b48cccec2/okhttp-urlconnection-2.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cb20062e14c523637b7643295418097b48cccec2">
+        <dex dex="/home/manny/AndroidProject/PNZ/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-2.2.0-22c10c8ce0df259369c4b84e785c4e402ce7f082.jar" />
+    </item>
+    <item
+        jar="/home/manny/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.2.0/959c454243581fdf730abfd4f4745441724bcf2c/okhttp-2.2.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="959c454243581fdf730abfd4f4745441724bcf2c">
+        <dex dex="/home/manny/AndroidProject/PNZ/app/build/intermediates/pre-dexed/debug/okhttp-2.2.0-8e7eafc9779b3f21590be22e137a635cb5870a2f.jar" />
+    </item>
+    <item
+        jar="/home/manny/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.21.0/16a6b3c680f3bf7b81bb42790ff5c1b72c5bbedc/google-api-client-1.21.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="16a6b3c680f3bf7b81bb42790ff5c1b72c5bbedc">
+        <dex dex="/home/manny/AndroidProject/PNZ/app/build/intermediates/pre-dexed/debug/google-api-client-1.21.0-2444468e2a2f241715f851c023a370b25b4c493f.jar" />
+    </item>
+    <item
+        jar="/home/manny/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client-java6/1.19.0/f09355e748c2da47e5cc6b9dac9f363a164b289d/google-oauth-client-java6-1.19.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f09355e748c2da47e5cc6b9dac9f363a164b289d">
+        <dex dex="/home/manny/AndroidProject/PNZ/app/build/intermediates/pre-dexed/debug/google-oauth-client-java6-1.19.0-d25f5896137ba8cc2f00da0d2471303defa2d3ed.jar" />
+    </item>
+    <item
+        jar="/home/manny/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.21.0/42631630fe1276d4d6d6397bb07d53a4e4fec278/google-http-client-1.21.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="42631630fe1276d4d6d6397bb07d53a4e4fec278">
+        <dex dex="/home/manny/AndroidProject/PNZ/app/build/intermediates/pre-dexed/debug/google-http-client-1.21.0-8668d6e84b3655591780b8ea49c051e3dbf7b92b.jar" />
+    </item>
+    <item
+        jar="/home/manny/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-youtube/v3-rev163-1.21.0/4d37344fb67e6a2cf55df3ca75e7ec80f82f4cc0/google-api-services-youtube-v3-rev163-1.21.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4d37344fb67e6a2cf55df3ca75e7ec80f82f4cc0">
+        <dex dex="/home/manny/AndroidProject/PNZ/app/build/intermediates/pre-dexed/debug/google-api-services-youtube-v3-rev163-1.21.0-1e5840c234d3ee49893defbd1071a61b988f1fed.jar" />
+    </item>
+    <item
+        jar="/home/manny/.gradle/caches/modules-2/files-2.1/de.greenrobot/eventbus/2.2.1/a18ff12a9ab5ae52fd30d42f134517997568231e/eventbus-2.2.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="a18ff12a9ab5ae52fd30d42f134517997568231e">
+        <dex dex="/home/manny/AndroidProject/PNZ/app/build/intermediates/pre-dexed/debug/eventbus-2.2.1-2d57ed68c21d7e605a199be7339efa52707fe4e1.jar" />
+    </item>
+    <item
+        jar="/home/manny/AndroidProject/PNZ/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/home/manny/AndroidProject/PNZ/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0-082f901b336e7c050ce04184421d9126d0db9d7e.jar" />
+    </item>
+    <item
+        jar="/home/manny/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.0/8873bd0bb5cb9ee37f1b04578eb7e26fcdd44cb0/commons-lang3-3.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8873bd0bb5cb9ee37f1b04578eb7e26fcdd44cb0">
+        <dex dex="/home/manny/AndroidProject/PNZ/app/build/intermediates/pre-dexed/debug/commons-lang3-3.0-f77fdff1c2bd55c31c90f040cf93861933aa4896.jar" />
+    </item>
+    <item
+        jar="/home/manny/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.4.0/f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2/picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="/home/manny/AndroidProject/PNZ/app/build/intermediates/pre-dexed/debug/picasso-2.4.0-abe854eea99d5d1edec3ddb0b4c39e33aaf6d80e.jar" />
+    </item>
+    <item
+        jar="/home/manny/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.2.0/c0b52915a48fa91b1b94a28d4a2997bac5f524df/okio-1.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c0b52915a48fa91b1b94a28d4a2997bac5f524df">
+        <dex dex="/home/manny/AndroidProject/PNZ/app/build/intermediates/pre-dexed/debug/okio-1.2.0-239248de90a1002329042481f61b0a7b75feb3f6.jar" />
+    </item>
+
+</items>
